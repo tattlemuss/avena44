@@ -1,4 +1,4 @@
-This is a dump of the code to build "44" by Avena, a demo for the Atari ST.
+This is a dump of the code to build "44" by Avena, a 4k intro for the Atari ST.
 
 Under a Unix-like shell (I use Windows Git's bash shell), use ./build.sh to build the code.
 
